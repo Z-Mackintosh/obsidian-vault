@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/大创思路漫谈.md",
+                "file": "数分三/重积分/笔记/有界闭区域上的重积分.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "大创思路漫谈"
+              "title": "有界闭区域上的重积分"
             }
           }
         ]
@@ -164,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 361.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,14 +179,18 @@
   },
   "active": "152df5d0e29f0cf5",
   "lastOpenFiles": [
+    "课本课件/数学分析 下册.pdf",
+    "数分三/重积分/笔记/有界闭区域上的重积分.md",
+    "数分三/重积分/例题",
+    "数分三/重积分/笔记",
+    "数分三/重积分",
+    "数分三",
     "inbox/大创思路漫谈.md",
     "课本课件/math-2.pdf",
     "inbox",
     "课本课件/数学分析习题全解指南 下册.pdf",
     "课本课件/数学分析习题全解指南 上册.pdf",
-    "课本课件/数学分析 下册.pdf",
     "课本课件/数学分析 上册.pdf",
-    "课本课件",
     "欢迎.md"
   ]
 }
