@@ -1,0 +1,14 @@
+{
+  "simpleTexToken": "TEKA3teUOcB6hkbySYIaUFNXZCf18iEJMUhFDoiLtXUG1CQTD3Ow6o7xqOyRVFF9",
+  "latexProvider": "SimpleTex",
+  "texify": {
+    "url": "http://127.0.0.1:5000/predict",
+    "username": "",
+    "password": ""
+  },
+  "pix2tex": {
+    "url": "http://127.0.0.1:8502/predict/",
+    "username": "",
+    "password": ""
+  }
+}
