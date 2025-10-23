@@ -1,0 +1,126 @@
+{
+  "id": "9db81428-101f-495d-8f69-af5b19184ec6",
+  "title": "介绍马克思生平",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "介绍马克思生平",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n介绍马克思生平\n\n"
+        }
+      ],
+      "id": "56df58c2-78de-43ce-865f-ae28a1a927a3",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "课本课件/微观经济学课本/第二十章：利润最大化.pdf"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block language=\"markdown\">\n# 卡尔·马克思（Karl Marx）生平概述\n\n- **出生与早年**  \n  - 1818年5月5日出生于德国特里尔（当时属普鲁士）。  \n  - 父亲是一名律师，家庭环境相对宽裕。  \n\n- **教育**  \n  - 1835年进入波恩大学学习法律，后转入柏林大学，主修哲学。  \n  - 在柏林期间受黑格尔哲学影响，加入青年黑格尔派。  \n\n- **早期写作与政治活动**  \n  - 1843年出版《经济学哲学手稿》，探讨异化与人类本性。  \n  - 与弗里德里希·恩格斯相识后合作，合著《德意志意识形态》（1845-1846）。  \n\n- **《共产党宣言》与流亡**  \n  - 1848年共同撰写《共产党宣言》，提出“全世界无产者，联合起来”。  \n  - 1849年因政治迫害被驱逐，先后居住在巴黎、布鲁塞尔、伦敦。  \n\n- **《资本论》**  \n  - 1867年第一卷《资本论》出版，系统阐述资本主义经济规律。  \n  - 第二、三卷分别在1885、1894由恩格斯整理出版。  \n\n- **晚年与逝世**  \n  - 1883年3月14日逝世于伦敦，安葬于海格特公墓。  \n  - 逝世后，马克思的思想对全球的政治、经济与社会理论产生深远影响。  \n\n- **主要贡献**  \n  - 创立历史唯物主义和剩余价值理论。  \n  - 为后来的社会主义、共产主义运动提供理论基础。  \n</smtcmp_block>",
+      "id": "41530410-016c-4d76-9d63-8aea715181fd",
+      "metadata": {
+        "model": {
+          "providerType": "openai-compatible",
+          "providerId": "Cerebras",
+          "id": "GPT-4",
+          "model": "gpt-oss-120b",
+          "promptLevel": 1,
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 461,
+          "completion_tokens": 598,
+          "total_tokens": 1059,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          }
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "介绍剩余价值理论",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n介绍剩余价值理论\n\n"
+        }
+      ],
+      "id": "efd61b13-4587-4499-bef8-8eeaf0acf20a",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "课本课件/微观经济学课本/第二十章：利润最大化.pdf"
+        }
+      ]
+    }
+  ],
+  "createdAt": 1761112994640,
+  "updatedAt": 1761113100100,
+  "schemaVersion": 1
+}

@@ -1,0 +1,126 @@
+{
+  "id": "af419d64-6377-4a48-8442-c5ecb51cfc6d",
+  "title": "介绍一下你自己",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "介绍一下你自己",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n介绍一下你自己\n\n"
+        }
+      ],
+      "id": "d3204ee4-f09f-42c9-8637-65c00c930ee8",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "概率论与数理统计/例题/hw2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block language=\"markdown\">\n# 你好，我是 ChatGPT\n\n- **身份**：由 OpenAI 训练的大型语言模型（GPT-4 架构）。\n- **功能**：理解并生成自然语言，帮助回答问题、提供建议、编辑文档等。\n- **专长**：尤其擅长处理 Markdown、Obsidian 笔记以及其他文本编辑任务。\n- **使用场景**：学习辅导、写作辅助、代码解释、知识检索等。\n- **限制**：知识截至 2024 年 6 月，无法访问实时互联网。\n</smtcmp_block>",
+      "id": "10ef0d02-8363-437d-85af-a7cfeaf57ca6",
+      "metadata": {
+        "model": {
+          "providerId": "Cerebras",
+          "providerType": "openai-compatible",
+          "id": "GPT-$",
+          "model": "gpt-oss-120b",
+          "promptLevel": 1,
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 460,
+          "completion_tokens": 192,
+          "total_tokens": 652,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          }
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "什么是行为经济学",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n什么是行为经济学\n\n"
+        }
+      ],
+      "id": "756b9ebb-b40d-4ece-a49f-d95b546afdc3",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "概率论与数理统计/例题/hw2.md"
+        }
+      ]
+    }
+  ],
+  "createdAt": 1761018386653,
+  "updatedAt": 1761020082488,
+  "schemaVersion": 1
+}

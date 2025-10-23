@@ -1,0 +1,56 @@
+{
+  "id": "da19b1cd-e537-4267-8b05-2faea0af8b5a",
+  "title": "介绍一下你自己",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "介绍一下你自己",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n介绍一下你自己\n\n"
+        }
+      ],
+      "id": "b17987b3-a15d-45a3-9786-1a6f5dbcaa0e",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "课本课件/微观经济学课本/第二十章：利润最大化.pdf"
+        }
+      ]
+    }
+  ],
+  "createdAt": 1761113689188,
+  "updatedAt": 1761113689188,
+  "schemaVersion": 1
+}
