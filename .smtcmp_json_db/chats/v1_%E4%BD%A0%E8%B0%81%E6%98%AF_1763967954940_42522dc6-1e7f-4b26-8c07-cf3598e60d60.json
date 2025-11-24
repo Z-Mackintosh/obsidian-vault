@@ -1,0 +1,56 @@
+{
+  "id": "42522dc6-1e7f-4b26-8c07-cf3598e60d60",
+  "title": "你谁是",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "你谁是",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n你谁是\n\n"
+        }
+      ],
+      "id": "e671b816-ffbe-49fc-bae8-9c83a3ee732d",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "微观经济学/笔记/32.交换.md"
+        }
+      ]
+    }
+  ],
+  "createdAt": 1763967895936,
+  "updatedAt": 1763967954940,
+  "schemaVersion": 1
+}

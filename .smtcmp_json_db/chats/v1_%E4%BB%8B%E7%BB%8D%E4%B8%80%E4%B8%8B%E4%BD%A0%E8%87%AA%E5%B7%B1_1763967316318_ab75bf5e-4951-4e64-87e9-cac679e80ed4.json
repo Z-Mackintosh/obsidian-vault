@@ -1,0 +1,150 @@
+{
+  "id": "ab75bf5e-4951-4e64-87e9-cac679e80ed4",
+  "title": "介绍一下你自己",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "介绍一下你自己",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n介绍一下你自己\n\n"
+        }
+      ],
+      "id": "566887b9-dc5d-4a83-9399-3e9a99abab0a",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "微观经济学/笔记/32.交换.md"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "介绍一下你自己",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n介绍一下你自己\n\n"
+        }
+      ],
+      "id": "1b2d8463-3449-4884-9e93-ebd0e830de4a",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Excalidraw/32.交换 2025-11-24 13.42.54.excalidraw.md"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "你是谁",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n你是谁\n\n"
+        }
+      ],
+      "id": "bceb0c58-2ad7-4ebb-bb13-89b0a455baa4",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Excalidraw/32.交换 2025-11-24 13.42.54.excalidraw.md"
+        }
+      ]
+    }
+  ],
+  "createdAt": 1763966658136,
+  "updatedAt": 1763967316318,
+  "schemaVersion": 1
+}
